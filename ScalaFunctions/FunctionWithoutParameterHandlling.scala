@@ -6,7 +6,7 @@ object MainObject {
         var result3 = FunctionWithoutParameterHandlling()  //this scenario is being tested
         println(result1 + "\n" + result2 + "\n" + result3)
     }
-    def FunctionWithoutParameterHandlling(a: Int = 0, b:Int = 0):Int= {
+    def FunctionWithoutParameterHandlling(a: Int = 0, b:Int = 0):Int= { //Parameter with default values
         a+b
     }
 }
