@@ -1,0 +1,1 @@
+/*A case class which has no arguments is declared as case object instead of case class. case object is serializeable by default.*/
