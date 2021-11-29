@@ -1,4 +1,4 @@
-//@timestamp: 29 Nov 2021 17:23:28 PM (GMT)
+//@timestamp: 29 Nov 2021 17:37:26 PM (GMT)
 /*In scala, constructor is not special method. 
 Scala provides primary and any number of auxiliary constructors. 
 We have explained each in details in the following example.
