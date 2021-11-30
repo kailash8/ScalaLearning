@@ -1,8 +1,7 @@
 //@timestamp: 30 Nov 2021 12:44:08 PM (GMT)
-/*Scala supports various types of inheritance including single, multilevel, multiple, and hybrid. 
-You can use single, multilevel and hierarchal in your class. 
-Multiple and hybrid can only be achieved by using traits. 
-Here, we are representing all types of inheritance by using pictorial form.*/
+/*When a subclass has the same name method as defined in the parent class, it is known as method overriding. 
+When subclass wants to provide a specific implementation for the method defined in the parent class, it overrides method from parent class.
+In scala, you must use either override keyword or override annotation to override methods from parent class.*/
 
 import java.util.Date
 import java.text.SimpleDateFormat
